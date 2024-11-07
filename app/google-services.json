@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "691024494141",
+    "project_id": "appsocial-ab585",
+    "storage_bucket": "appsocial-ab585.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691024494141:android:8fe5dfe3169ba4c7aff454",
+        "android_client_info": {
+          "package_name": "com.example.proyectointegrador"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABJWhO1F-79CFSezVLfoYsOLOe7DSUGCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
